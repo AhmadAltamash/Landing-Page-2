@@ -20,10 +20,10 @@ html,body{
 body::-webkit-scrollbar{
     display: block;
     width: 8px;
-    background: linear-gradient(to left bottom, #119f3a 0%, #a3d421 80%);
+    background: black;
 }
 body::-webkit-scrollbar-thumb{
-    background: white;
+    background: #95C11E;
     border-radius: 50px;
 }
 #nav{
